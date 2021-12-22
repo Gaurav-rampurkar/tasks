@@ -1,0 +1,7 @@
+// task2 
+
+/*Q. **Build a multi-signature wallet. It should have all the basic functions.**
+
+A multi-signature wallet ("multisig" for short) is a cryptocurrency 
+wallet that requires two or more private keys to sign and send a transaction.
+This type of digital signature makes it possible for two or more users to sign documents as a group
